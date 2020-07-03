@@ -1,5 +1,4 @@
-Hello from text file
-
+Hello from text file.
 another Hello
 again hello
 hi again!
