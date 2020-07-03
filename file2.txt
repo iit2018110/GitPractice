@@ -1,6 +1,0 @@
-Hello from text file
-
-another Hello
-again hello
-
-
